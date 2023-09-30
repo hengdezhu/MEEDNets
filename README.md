@@ -7,14 +7,14 @@ Inspired by the biological evolution, this paper proposes an evolutionary synthe
 
 ## Citation
 
-@article{zhu2023meednets,
-  title={MEEDNets: Medical Image Classification via Ensemble Bio-inspired Evolutionary DenseNets},
-  author={Zhu, Hengde and Wang, Wei and Ulidowski, Irek and Zhou, Qinghua and Wang, Shuihua and Chen, Huafeng and Zhang, Yudong},
-  journal={Knowledge-Based Systems},
-  pages={111035},
-  year={2023},
-  publisher={Elsevier}
-}
+    @article{zhu2023meednets,
+       title={MEEDNets: Medical Image Classification via Ensemble Bio-inspired Evolutionary DenseNets},
+       author={Zhu, Hengde and Wang, Wei and Ulidowski, Irek and Zhou, Qinghua and Wang, Shuihua and Chen, Huafeng and Zhang, Yudong},
+       journal={Knowledge-Based Systems},
+       pages={111035},
+       year={2023},
+       publisher={Elsevier}
+     }
 
 ## MEEDNets
 
